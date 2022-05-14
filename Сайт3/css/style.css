@@ -37,9 +37,9 @@ footer {
     width: 800px;
 }
 .post {
-    
+    border-radius: 15px;
     width: 250px;
-    height: 310px;
+    height: 370px;
     text-align: center;
     background-color: aquamarine;
     margin: 20px 5px 30px 5px;
