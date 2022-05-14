@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600;700;900&display=swap');
+body, p, h1, h3, h5 {
+    font-family: 'Montserrat', sans-serif;
+    padding: 8px;
+    margin: 8px;
+}
+h3 {
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+p {
+    font-weight: 400;
+}
+header {
+    display: Flex;
+    justify-content: center;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
+footer {
+    display: flex
+}
+.footer_email {
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+.footer_logo {
+    width: 120px;
+}
+.footer_colows {
+    margin: 0px 5px;
+    text-align: center;
+}
+.footer_colows_about {
+    width: 800px;
+}
+.post {
+    
+    width: 250px;
+    height: 310px;
+    text-align: center;
+    background-color: aquamarine;
+    margin: 20px 5px 30px 5px;
+}
+.post-img {
+    width: 100%;
+    margin-bottom: 25px;
+    border-radius: 15px;
+}
+.post_desc {
+    margin: 20px 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.post_card_line {
+    display: flex;
+    align-items: center;
+}
+.post_desc_img {
+    width: 40%px;
+    height: ;
+    margin-right: ;
+    border-radius: 10px;
+
+}
+.post_info {
+    width: 60;
+}
+.comment_card {
+    background-color: #493030;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.date {
+    color: #5f5252;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.post_card_video {
+    width: 700px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
